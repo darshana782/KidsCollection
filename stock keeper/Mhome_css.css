@@ -1,0 +1,38 @@
+/*manager's home*/
+
+body{
+	margin:0;
+	padding:0;
+	background-size:cover;
+	background-position:center;
+}
+
+
+
+
+.left_nav{
+	list-style-type: none;
+	background-color: #7d7d7d;
+	margin-top: 5px;
+	margin-bottom:3px;
+	padding: 2px;
+	word-spacing: 2px;
+	overflow: hidden;
+	position: fixed;
+	top:67px;
+	height: 90%;
+	width: 18%;
+	color: white;
+}
+
+.left_nav_li a{
+  color: white;  
+  margin-left: 10px;
+  text-decoration: none;
+
+}
+
+.left_nav_li a:hover{
+  	color: aqua;
+}
+

@@ -1,0 +1,33 @@
+.left{
+	left: 3%;
+	width: 45%;
+	position: absolute;
+	top: 10%;
+	font-size:18px;
+	padding:10px;
+	box-shadow:0 5px 15px rgba(0,0,0,.8	);
+	background-color: white;
+}
+
+
+.left_table{
+	width: 80%;
+	margin-top: 5%;
+}
+
+
+.right{
+	right: 3%;
+	width: 45%;
+	position: absolute;
+	top: 10%;
+	font-size:18px;
+	padding:10px;
+	box-shadow:0 5px 15px rgba(0,0,0,.8	);
+	background-color: white;
+}	
+
+.right_table{
+	width: 80%;
+	margin-top: 5%;
+}

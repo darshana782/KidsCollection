@@ -1,0 +1,40 @@
+body{
+	margin:0;
+	padding:0;
+	background-size:cover;
+	background-position:center;
+}
+
+
+
+
+.link_list_for_others{
+	list-style-type: none;
+	background-color: #7d7d7d;
+	margin-top: 2px;
+	margin-bottom:2px;
+	padding: 0;
+	overflow: hidden;
+	top:0;
+	position: fixed;
+	width: 99%;
+	right:3px;
+}
+
+.nav_li a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 10px 0px;
+  text-decoration: none;
+  word-spacing: 10px;
+  letter-spacing: 7px;
+  font-weight: bold;
+  font-size: 24px;
+
+}
+
+
+.active {
+  background-color: #ff5100;
+ }
