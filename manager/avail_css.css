@@ -1,0 +1,43 @@
+.items{
+	margin-left: 20%;
+}
+
+.item_qty{
+	text-align: center;
+	color: navy;
+}
+
+
+.report{
+	width:60%;
+	color:white;
+	background-color: white;
+	top:80%;
+	left:50%;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	box-sizing:border-box;
+	font-size:18px;
+	padding:10px;
+	box-shadow:0 5px 15px rgba(0,0,0,.8	);
+}
+
+
+.report_table{
+	width: 50%;
+	margin-top: 5%;
+}
+
+.report1{
+	width:60%;
+	color:white;
+	background-color: white;
+	top:62%;
+	left:50%;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	box-sizing:border-box;
+	font-size:18px;
+	padding:10px;
+	box-shadow:0 5px 15px rgba(0,0,0,.8	);
+}

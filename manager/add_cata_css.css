@@ -1,0 +1,33 @@
+.itemcat_form{
+	background-color: #FFE4E1;
+	margin-top: 20px;
+	margin-left:400px;
+	overflow: hidden;
+	height: 72%;
+	width: 50%;
+	top: 15%;
+	position: absolute;
+	background:rgba(255,255,255,.2);
+	box-shadow:0 5px 15px rgba(0,0,0,.5);
+}
+
+.itemcat_table{
+	position: transparent;
+	margin-top: 100px;
+	margin-left: 150px;
+	height: 60%;
+	color:#044463;
+	font-size:20px;
+}
+input[type=text]{
+	padding:7px;
+	margin: 3px;
+	border-radius: 5px; 
+	border: 1px;
+}
+
+.inventory_image{
+	width:110%;
+	position: fixed;
+	opacity: 0.7;
+}

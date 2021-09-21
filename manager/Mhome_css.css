@@ -1,0 +1,76 @@
+/*manager's home*/
+body{
+	margin:0;
+	padding:0;
+	background-size:cover;
+	background-position:center;
+}
+
+
+
+
+
+.left_nav{
+	list-style-type: none;
+	background-color: #7d7d7d;
+	margin-top: 0px;
+	margin-bottom:3px;
+	padding: 2px;
+	word-spacing: 2px;
+	overflow: hidden;
+	position: fixed;
+	top:8.4%;
+	height: 100%;
+	width: 18%;
+	color: white;
+}
+
+.left_nav_li a{
+  color: white;  
+  margin-left: 10px;
+  text-decoration: none;
+
+}
+
+.left_nav_li a:hover{
+  	color: aqua;
+}
+
+.main_home{
+	background-color: #3d3d3d;
+	width: 81.5%;
+	right: 0%;
+	position: fixed;
+	height: 100%;
+	top: 8.4%;
+}
+
+
+.home_content{
+	width: 80%;
+	right: 1%;
+	position: absolute;
+	background:rgba(0,0,0,0);
+	top: 8.4%;
+	overflow: hidden;
+}
+
+.inside_texts{
+	color: navy;
+}
+
+.pinside_texts{
+	color: navy;
+}
+
+
+.gallery_item_table{
+	margin-top: 5%;
+}
+
+.avail_stock{
+	font-size: 20px;
+	color:red;
+}
+
+

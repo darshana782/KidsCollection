@@ -1,0 +1,32 @@
+.suppplier_table{
+	position: absolute;
+	text-align: center;
+	top: 10%;
+	width:50%;
+	right: 25%;
+	background:rgba(0,0,0,.1);
+	box-sizing:border-box;
+	padding:10px;
+	box-shadow:0 5px 15px rgba(0,0,0,.5);
+	color: aqua;
+
+}
+
+
+.columns{
+	font-size: 12px;
+	color: yellow;
+	background color:yellow;
+
+}
+
+.inventory_image{
+	width:109%;
+	position: fixed;
+	opacity: 0.7;
+}
+
+.sup_image{
+	width: 25%;
+}
+
