@@ -1,0 +1,37 @@
+.item_image{
+	width: 100%;
+}
+
+.table_home{
+	width: 50%;
+	position: absolute;
+	top: 15%;
+	right: 25%;
+}
+
+.more_send{
+	width: 20%;
+}
+
+.send_item_table_content{
+	width:40%;
+	height: 50%;
+	color:white;
+	background-color: white;
+	top:50%;
+	left:50%;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	box-sizing:border-box;
+	font-size:18px;
+	padding:10px;
+	box-shadow:0 5px 15px rgba(0,0,0,.8	);
+}
+
+.send_item_table{
+	width: 60%;
+	text-align: center;
+	margin-top: 8%;
+}
+
+
