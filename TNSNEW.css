@@ -1,0 +1,113 @@
+body{
+	margin:0;
+	padding:0;
+	background-size:cover;
+	background-position:center;
+}
+
+section
+{
+	padding:0 100px;
+	align-items:center;
+}
+.box
+{
+	position:absolute;
+	top: 10%;
+	max-width:550px;
+	margin-top:20px;
+	padding:40px;
+	background:rgba(255,255,255,.2);
+	box-shadow:0 5px 15px rgba(0,0,0,.5);
+}
+.box h2
+{
+	margin:0 0 20px;
+	padding:0;
+	text-transform:uppercase;
+	color:#044463;
+}
+.box p
+{
+	margin:0;
+	padding:0;
+	font-size:14px;
+}
+
+
+
+.bottom_fix_tc{
+	bottom: -120%;
+	position: absolute;
+	background-color: #323232;
+	color: white;
+	width: 100%;
+	height: 20%;
+	float: left;
+}
+
+.bottom_fix_stc{
+	bottom: -150%;
+	position: absolute;
+	background-color: #323232;
+	color: white;
+	width: 100%;
+	height: 20%;
+	float: left;
+}
+
+
+.tc_back_image{
+	position: fixed;
+	width: 100%;
+}
+
+
+
+.bottom_fix_tc h3{
+	position: absolute;
+	left: 20%;
+}
+
+.bottom_fix_tc p{
+	position: absolute;
+	left: 15%;
+	top: 25%;
+}
+
+.bottom_fix_tc img{
+	position: absolute;
+	left: 19%;
+	top: 50%;
+	width: 10%;
+}
+
+.bottom_fix_tc span{
+	position: absolute;
+	right: 5%;
+	top: 5%;
+}
+
+.bottom_fix_stc h3{
+	position: absolute;
+	left: 20%;
+}
+
+.bottom_fix_stc p{
+	position: absolute;
+	left: 15%;
+	top: 25%;
+}
+
+.bottom_fix_stc img{
+	position: absolute;
+	left: 19%;
+	top: 50%;
+	width: 10%;
+}
+
+.bottom_fix_stc span{
+	position: absolute;
+	right: 5%;
+	top: 5%;
+}
