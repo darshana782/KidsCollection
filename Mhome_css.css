@@ -1,0 +1,74 @@
+/*manager's home*/
+body{
+	margin:0;
+	padding:0;
+	background-size:cover;
+	background-position:center;
+}
+
+
+
+.main_home{
+	background-color: yellow;
+	width: 81.5%;
+	right: 0%;
+	position: fixed;
+	height: 100%;
+	top: 8.4%;
+}
+
+
+.home_content{
+	width: 82%;
+	right: 0%;
+	position: absolute;
+	background:rgba(0,0,0,.1);
+	box-shadow:0 5px 15px rgba(0,0,0,.5);
+	top: 15%;
+	overflow: hidden;
+}
+
+.inside_texts{
+	color: navy;
+}
+
+.pinside_texts{
+	color: navy;
+}
+
+
+.gallery_item_table{
+	margin-top: 5%;
+}
+
+.avail_stock{
+	font-size: 20px;
+	color:red;
+}
+
+
+
+.bottom_fix h3{
+	position: absolute;
+	left: 20%;
+}
+
+.bottom_fix p{
+	position: absolute;
+	left: 15%;
+	top: 25%;
+}
+
+.bottom_fix img{
+	position: absolute;
+	left: 19%;
+	top: 50%;
+	width: 10%;
+}
+
+.bottom_fix span{
+	position: absolute;
+	right: 5%;
+	top: 5%;
+}
+
